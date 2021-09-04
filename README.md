@@ -2,7 +2,4 @@
 
 ## Quickstart
 
-```bash
-go build wiki.go`
-./wiki
-```
+See `Makefile` for commands
